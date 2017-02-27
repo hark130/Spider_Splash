@@ -1,0 +1,11 @@
+# Python Bytecode
+*.pyc
+*.pyo
+
+# Visual Studio Files
+*.pyproj
+.vs
+*.sln
+
+# Sublime?
+*.TMP
