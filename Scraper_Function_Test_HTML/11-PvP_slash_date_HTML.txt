@@ -1,0 +1,240 @@
+
+
+
+
+
+  
+  
+  
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-us"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>PVP - Christmas Special 2015 - Part 19</title>
+    <meta name="description" content="">
+    <!--meta name="viewport" content="width=device-width, initial-scale=1"-->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.pvponline.com/feed" />
+
+  <link rel="stylesheet" href="/assets/css/normalize.css">
+  <link rel="stylesheet" href="/assets/css/main.css?v1.1">
+  <script src="/assets/js/vendor/modernizr-2.6.2.min.js"></script>
+
+  
+    
+      <script async src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+      <script>var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; </script>
+    
+      <script type="text/javascript">
+      (function(){(function(){var a=window.deployads_ab_pct=100,a=Math.random()>a/100,c=location.search.match(/[?&]deployads-ab=([^&]+)/);c&&2===c.length&&(a="pub"===c[1]);a&&(window.deployads=[],window.deployads.push=function(){var b=document.querySelectorAll('script[type\x3d"text/x-ab-test"]:not([data-processed])');if(b&&0<b.length){var b=b[0],a=b.innerHTML.replace(/xscript/g,"script");document.write(a);b.setAttribute("data-processed","true")}});window.deployads_disabled=a})();})();
+      </script>  
+
+      <script type='text/javascript'>
+      if (window.deployads_disabled) {
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/1051411/PvP_Leaderboard_728X90', [728, 90], 'div-gpt-ad-1469724827049-0').addService(googletag.pubads());
+          googletag.defineSlot('/1051411/PvP_Lower_Right_Rectangle_300X250', [300, 250], 'div-gpt-ad-1469724827049-1').addService(googletag.pubads());
+          googletag.defineSlot('/1051411/PvP_Upper_Right_Rectangle_300X250', [300, 250], 'div-gpt-ad-1469724827049-2').addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        });
+      }
+      </script>
+    
+  
+
+</head>
+<body>
+  
+    <!-- Begin Google Analytics -->
+    <script type="text/javascript">
+
+      var _gaq=[['_setAccount','UA-692724-1'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+
+    </script>
+    <!-- End Google Analytics -->
+  
+    
+  
+  <script src="https://d1stmqa67kozr6.cloudfront.net/a/detector.js?site=pvponline.com" async></script>
+
+    <span id="top"></span>
+    <div class="wrapper cross-nav" id="toonhoundLinks">
+        <div class="contain">
+            <ul class="nav-links clearfix">
+                <li><a class="pvp" href="http://www.pvponline.com">Player vs Player</a></li>
+                <li><a class="titans" href="http://www.tabletitans.com">Table Titans</a></li>
+                <li><a class="merch" href="http://store.pvponline.com/" target="_blank">Merch</a></li>
+                <li class="login dropdown">
+                                    
+                    
+                      <a class="login-patreon" href="https://www.patreon.com/oauth2/authorize?response_type=code&client_id=ac1ed7d326660dcb4b717af8ba7b15e755b55b62fed5c6598f1d4fc7f25c1c1c&redirect_uri=http%3A%2F%2Fpvponline.com%2F%3FACT%3D41&state=5ae5216ma38knitlj8t6tnh091">
+                        <img src="/assets/img/patreon-logo-ko.svg" width="16" height="16" alt="" class="login-patreon-logo">
+                        Login with Patreon
+                      </a>
+                    
+                  
+                </li>
+                
+            </ul>
+        </div>
+    </div> <!--/#toonhoundLinks-->
+
+    <div class="wrapper header-lb" id="header-lb">
+        <div class="contain clearfix">
+            <!-- PvP_Leaderboard_728X90 -->
+
+  
+    <div class="ad" style='width:728px; height:90px;'>
+      <div class="ad-tag" data-ad-name="leader" data-ad-size="728x90" >
+      <script type="text/x-ab-test">
+      <!-- /1051411/PvP_Leaderboard_728X90 -->
+      <div id='div-gpt-ad-1469724827049-0' style='height:90px; width:728px;'>
+      <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1469724827049-0'); });
+      </xscript>
+      </div>
+      </script>
+      </div>
+      <script src="//tags-cdn.deployads.com/a/pvponline.com.js" async ></script>
+      <script>(deployads = window.deployads || []).push({});</script>
+    </div>
+  
+
+        </div>
+    </div> <!--/header-lb-->
+
+    <nav class="wrapper main-nav" id="mainNav">
+        <ul class="contain clearfix">
+            <li class="logo"><a href="/" class="logo-img"></a></li>
+            <li class="link nav-comic"><a href="/comic" title="Comic">Comic</a></li>
+            <li class="link nav-archive"><a href="/archive" title="Archive">Archive</a></li>
+            <li class="link nav-store"><a href="http://store.pvponline.com/" target="_blank" title="Store">Store</a></li>
+            <li class="link nav-new-readers"><a href="/new-readers" title="New Readers">New Readers</a></li>
+            <li class="link nav-about"><a href="/about" title="About">About</a></li>
+            
+              
+                <li class="link nav-patrons"><a href="/become-a-patron">Become a Patron</a></li>
+              
+            
+            
+        </ul>
+    </nav> <!--/#mainNav-->
+  
+
+  <div class="layout comic contain clearfix">
+    
+    <header class="clearfix">
+        <div class="comic-title left">
+          
+          <h1>Christmas Special 2015 - Part 19</h1>
+        </div>
+        <div class="comic-date right">12/30/2015</div>
+    </header>
+
+    <section class="comic-art">
+        <img src="http://s3-us-west-2.amazonaws.com/pvponlinenew/img/comic/2015/12/pvp20151231.jpg" alt="Comic Image for Christmas Special 2015 - Part 19" />
+    </section>
+
+    <section class="comic-meta clearfix">
+
+        <div class="comic-nav left">
+            
+  <a href="/comic/christmas-special-2015-part-18" class="left divider">? Prev</a>
+
+
+  <a href="/comic/christmas-special-2015-part-20" class="left">Next ?</a>
+						
+
+        </div>
+
+        <div class="comic-share right">
+            <a class="icon-feed right" href="http://pvponline.com/feed" target="_blank" title="Subscribe to RSS Feed"></a>
+            <a class="icon-facebook right" target="_blank" href="http://www.facebook.com/sharer.php?u=http://pvponline.com/comic/christmas-special-2015-part-19&amp;t=Christmas Special 2015 - Part 19" title="Share on Facebook"></a>
+            <a class="icon-twitter right" target="_blank" href="http://twitter.com/share?url=http://pvponline.com/comic/christmas-special-2015-part-19&amp;text=Christmas Special 2015 - Part 19%20%23PVP -" title="Share on Twitter"></a>
+        </div>
+
+    </section>
+
+    <div class="comic-after clearfix">
+
+    <div class="story-spotlight box left divider">
+    <h3>Story Spotlight</h3>
+
+    
+        <a class="glimmer " href="http://pvponline.com/comic/mon-oct-10">
+    <img src="http://s3-us-west-2.amazonaws.com/pvponlinenew/img/spotlight_feat/pregger-spotlight.jpg" />
+    <div class="overlay blue"></div>
+    <span class="text">Baby makes three? - Jade's late</span>
+</a>
+     
+    
+
+</div>
+
+
+    
+          
+        <div class="ad box left divider" style="width:300px; height:250px;">
+  <div class="ad-tag" data-ad-name="atf_mrec" data-ad-size="300x250" >
+  <script type="text/x-ab-test">
+  <!-- /1051411/PvP_Upper_Right_Rectangle_300X250 -->
+  <div id='div-gpt-ad-1469724827049-2' style='height:250px; width:300px;'>
+  <script type='text/javascript'>
+  googletag.cmd.push(function() {googletag.display('div-gpt-ad-1469724827049-2');});
+  </xscript>
+  </div>
+  </script>
+  </div>
+  <script src="//tags-cdn.deployads.com/a/pvponline.com.js" async ></script>
+  <script>(deployads = window.deployads || []).push({});</script>
+</div>
+
+        <div class="ad box left" style="width:300px; height:250px;">
+  <div class="ad-tag" data-ad-name="btf_mrec" data-ad-size="300x250" >
+  <script type="text/x-ab-test">
+  <!-- /1051411/PvP_Lower_Right_Rectangle_300X250 -->
+  <div id='div-gpt-ad-1469724827049-1' style='height:250px; width:300px;'>
+  <script type='text/javascript'>
+  googletag.cmd.push(function() {googletag.display('div-gpt-ad-1469724827049-1');});
+  </xscript>
+  </div>
+  </script>
+  </div>
+  <script src="//tags-cdn.deployads.com/a/pvponline.com.js" async ></script>
+  <script>(deployads = window.deployads || []).push({});</script>
+</div>
+      
+    
+
+</div>
+
+  </div>
+
+  <footer class="wrapper">
+    <div class="contain clearfix">
+        <ul class="footer-nav">
+            <li class="logo"><a href="#top" title="Go to top of page"></a></li>
+            <li class="link divider"><a href="mailto:mail@pvponline.com" title="Contact Us">Contact Us</a></li>
+            <li class="link divider"><a href="mailto:cory@pvponline.com?subject=Advertising on PvP Online" title="Advertise With Us">Advertise With Us</a></li>
+            <li class="link"><a href="/privacy-policy">Privacy Policy</a></li>
+            <li class="text right">Copyright &copy;1998-2016 Scott R. Kurtz</li>
+        </ul>
+    </div>
+</footer>
+
+<!-- load vendor libraries -->
+<script src="/assets/js/vendor/jquery-1.10.2.min.js"></script>
+
+<!-- load js functions -->
+<script src="/assets/js/min/main-min.js"></script>
+</body>
+</html>

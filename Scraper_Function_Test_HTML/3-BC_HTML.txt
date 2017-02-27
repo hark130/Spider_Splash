@@ -1,0 +1,590 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head itemscope itemtype="http://schema.org/WebPage">
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-48594285-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link rel="shortcut icon" href="http://www.businesscat.happyjar.com/wp-content/themes/businesscat/images/favicon.png" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link type="text/css" rel="stylesheet" href="http://www.businesscat.happyjar.com/wp-content/themes/businesscat/wpcore.css"  />
+<link type="text/css" rel="stylesheet"  href="http://www.businesscat.happyjar.com/wp-content/themes/businesscat/style.css"  />
+<link rel="stylesheet" type="text/css" href="http://www.businesscat.happyjar.com/wp-content/themes/businesscat/style.css"/>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+<link rel="stylesheet" href="http://www.businesscat.happyjar.com/wp-content/themes/businesscat/css/font-awesome-4.6.3/css/font-awesome.min.css">
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+<script type="text/javascript" src="http://www.businesscat.happyjar.com/wp-content/themes/businesscat/css/js/core.js"></script>
+<!-- Google Fonts -->
+<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<!-- Get Facebook like script -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Get Twitter share script -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+ <meta charset="UTF-8" />
+
+ <link rel="profile" href="http://gmpg.org/xfn/11" />
+
+ <link rel="pingback" href="http://www.businesscat.happyjar.com/xmlrpc.php" />
+
+ <link rel="alternate" type="application/rss+xml" title="The Adventures of Business Cat" href="http://www.businesscat.happyjar.com/feed/" />
+
+ <link rel="alternate" type="application/atom+xml" title="The Adventures of Business Cat" href="http://www.businesscat.happyjar.com/feed/atom/" />
+
+ 
+ <title>The Adventures of Business Cat |   Order</title>
+
+<link rel="stylesheet" href="http://www.businesscat.happyjar.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.5.1.1" type="text/css" media="all" />
+
+   <link rel="alternate" hreflang="en-US" href="http://www.businesscat.happyjar.com/comic/order/" />
+<link rel="alternate" hreflang="ru-RU" href="http://www.businesscat.happyjar.com/ru/comic/%d0%b7%d0%b0%d0%ba%d0%b0%d0%b7/" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Adventures of Business Cat &raquo; Order Comments Feed" href="http://www.businesscat.happyjar.com/comic/order/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.businesscat.happyjar.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=e73a5398689a08eb670be96bb7a87aa1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='comiceasel-style-css'  href='http://www.businesscat.happyjar.com/wp-content/plugins/comic-easel/css/comiceasel.css?ver=e73a5398689a08eb670be96bb7a87aa1' type='text/css' media='all' />
+<link rel='stylesheet' id='comiceasel-navstyle-css'  href='http://www.businesscat.happyjar.com/wp-content/themes/businesscat/images/nav/businesscat/navstyle.css?ver=e73a5398689a08eb670be96bb7a87aa1' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='http://www.businesscat.happyjar.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.businesscat.happyjar.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.businesscat.happyjar.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="prev" href="http://www.businesscat.happyjar.com/comic/order/" />
+<link rel="next" href="http://www.businesscat.happyjar.com/comic/secrets/" />
+
+<link rel="canonical" href="http://www.businesscat.happyjar.com/comic/order/" />
+<link rel="alternate" type="application/json+oembed" href="http://www.businesscat.happyjar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.businesscat.happyjar.com%2Fcomic%2Forder%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.businesscat.happyjar.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.businesscat.happyjar.com%2Fcomic%2Forder%2F&#038;format=xml" />
+<script>
+	var contentwarningtext = "Warning, Mature Content.";
+</script>
+<meta name="generator" content="WPML ver:3.5.1.1 stt:63,39,1,4,3,27,28,47,2,9,18,13,23,44,55;" />
+<meta name="Comic-Easel" content="1.10" />
+<meta name="Referrer" content="" />
+<meta property="og:image" content="http://www.businesscat.happyjar.com/wp-content/uploads/2016/12/2016-12-02-Order.png" />
+
+
+<!-- wpsso meta tags begin -->
+<!-- generated on 2016-12-22T22:00:59+00:00 for none -->
+<meta name="wpsso:mark" content="wpsso meta tags begin"/>
+<!-- generator:1 --><meta name="generator" content="WPSSO 3.35.0-1/G"/>
+<link rel="publisher" href="https://plus.google.com/b/116723208191672073400/"/>
+<link rel="shortlink" href="http://www.businesscat.happyjar.com/?p=3537"/>
+<!-- fb:admins:1 --><meta property="fb:admins" content="tomfonder"/>
+<meta property="og:url" content="http://www.businesscat.happyjar.com/comic/order/"/>
+<meta property="og:type" content="article"/>
+<meta property="article:section" content="Comics"/>
+<!-- article:tag:1 --><meta property="article:tag" content="boss"/>
+<!-- article:tag:2 --><meta property="article:tag" content="business-cats"/>
+<!-- article:tag:3 --><meta property="article:tag" content="cat"/>
+<!-- article:tag:4 --><meta property="article:tag" content="ceo"/>
+<!-- article:tag:5 --><meta property="article:tag" content="hair"/>
+<!-- article:tag:6 --><meta property="article:tag" content="lint"/>
+<!-- article:tag:7 --><meta property="article:tag" content="office"/>
+<!-- article:tag:8 --><meta property="article:tag" content="order"/>
+<!-- article:tag:9 --><meta property="article:tag" content="roller"/>
+<!-- article:tag:10 --><meta property="article:tag" content="stationery"/>
+<!-- article:tag:11 --><meta property="article:tag" content="suit"/>
+<!-- article:tag:12 --><meta property="article:tag" content="tie"/>
+<!-- article:tag:13 --><meta property="article:tag" content="work"/>
+<meta property="article:published_time" content="2016-12-02T00:01:36+00:00"/>
+<meta property="article:modified_time" content="2016-11-29T09:31:26+00:00"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:site_name" content="The Adventures of Business Cat"/>
+<meta property="og:title" content="Order"/>
+<meta property="og:description" content="Put me down for ten crates. - This comic brought to you courtesy of my amazing patrons. Special thanks to: Karen Carpenter, Gary Cooper, Daniel Cunningham, Czar De Jesus, Colin Dellow, Julia G, Giz, Reece Hall, Yuliya Levina, Jonna M&auml;rij&auml;rvi, Cot&eacute; Nicholas, Scott, Janet... #boss #businesscats #cat"/>
+<meta property="article:publisher" content="https://www.facebook.com/businesscatcomic/"/>
+<!-- og:image:1 --><meta property="og:image" content="http://www.businesscat.happyjar.com/wp-content/uploads/2016/12/2016-12-02-Order-600x315.png"/>
+<!-- og:image:1 --><meta property="og:image:width" content="600"/>
+<!-- og:image:1 --><meta property="og:image:height" content="315"/>
+<meta name="twitter:domain" content="www.businesscat.happyjar.com"/>
+<meta name="twitter:site" content="@bcatcomic"/>
+<meta name="twitter:title" content="Order"/>
+<meta name="twitter:description" content="Put me down for ten crates. - This comic brought to you courtesy of my amazing patrons. Special thanks to: Karen Carpenter, Gary Cooper, Daniel Cunningham, Czar De Jesus... #boss #businesscats #cat"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://www.businesscat.happyjar.com/wp-content/uploads/2016/12/2016-12-02-Order-800x413.png"/>
+<meta itemprop="url" content="http://www.businesscat.happyjar.com/comic/order/"/>
+<meta itemprop="name" content="Order"/>
+<meta itemprop="description" content="Put me down for ten crates. - This comic brought to you courtesy of my amazing patrons. Special thanks to: Karen Carpenter, Gary Cooper, Daniel Cunningham, Czar De Jesus, Colin Dellow, Julia G, Giz, Reece Hall, Yuliya Levina, Jonna M&auml;rij&auml;rvi..."/>
+<meta name="author" content="Fonder"/>
+<meta name="description" content="Put me down for ten crates. - This comic brought to you courtesy of my amazing patrons. Special thanks to: Karen Carpenter, Gary Cooper, Daniel..."/>
+<noscript itemprop="author" itemscope itemtype="http://schema.org/Person">
+	<meta itemprop="url" content="http://www.businesscat.happyjar.com/"/>
+	<meta itemprop="name" content="Fonder"/>
+</noscript>
+<noscript itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+	<meta itemprop="url" content="http://www.businesscat.happyjar.com/wp-content/uploads/2016/12/2016-12-02-Order-800x413.png"/>
+	<meta itemprop="width" content="800"/>
+	<meta itemprop="height" content="413"/>
+</noscript>
+<meta name="wpsso:mark" content="wpsso meta tags end"/>
+<!-- wpsso meta tags end -->
+
+ 
+
+</head>
+
+<body>
+
+
+<a name="top"></a>
+
+<div class="header">
+	<div class="header-content">
+	<!-- LOGO -->
+		<div class="header-logo-spacer">
+			<div id="logo-image"><!--image--></div>
+			<a href="http://www.businesscat.happyjar.com"><div id="logo-text" class=""><!--image--></div></a>			
+		</div><!-- header-logo-spacer -->
+		<div class="header-main-content">
+	<!-- CROSS SITE NAVIGATION -->	
+			<div class="xsitenav">
+				<div class="xsitenav-content">
+					<a href="http://www.happyjar.com/"><div class="xsitenav-button happyjar">HAPPY JAR</div></a>
+					<a href="http://www.businesscat.happyjar.com"><div class="xsitenav-button businesscat">BUSINESS CAT</div></a>
+					<!-- <a href="http://www.somewhereonearth.com/"><div class="xsitenav-button somewhere">SOMEWHERE ON EARTH</div></a> -->
+					<a href="http://www.drunken-warriors.com/"><div class="xsitenav-button drunkenwarriors">DRUNKEN WARRIORS</div></a>
+					<a href="http://www.businesscat.happyjar.com/store"><div class="xsitenav-button store">STORE</div></a>
+				</div><!-- xsitenav-content -->
+			</div><!-- xsitenav -->
+	<!-- LEADERBOARD -->		
+			<div class="prmo-header">
+				<div class="prmo-text">please disable adblock while browsing this site</div>
+				<div class="prmo-pos">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<!-- Business Cat: Leaderboard -->
+					<ins class="adsbygoogle"
+					     style="display:inline-block;width:728px;height:90px"
+					     data-ad-client="ca-pub-5269261868368399"
+					     data-ad-slot="5999944260"></ins>
+					<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+				</div><!--prmo-pos-header-->
+			</div><!-- prmo-header -->
+			<div class="social-header">
+				<div class="social-header-spacer"><!-- language select spacer --></div>
+				<div class="social-header-buttons">
+					<a href="http://www.facebook.com/businesscatcomic">
+						<div class="social-btn-header facebook"><i class="fa fa-facebook" aria-hidden="true"></i></div></a>
+					<a href="http://www.twitter.com/bcatcomic">
+						<div class="social-btn-header twitter"><i class="fa fa-twitter" aria-hidden="true"></i></div></a>
+					<a href="https://plus.google.com/u/0/b/116723208191672073400/116723208191672073400/">
+						<div class="social-btn-header googleplus"><i class="fa fa-google-plus" aria-hidden="true"></i></div></a>
+					<a href="http://www.businesscatcomic.tumblr.com/">
+						<div class="social-btn-header tumblr"><i class="fa fa-tumblr" aria-hidden="true"></i></div></a>
+					<a href="http://tomfonder.deviantart.com/">
+						<div class="social-btn-header deviantart"><i class="fa fa-deviantart" aria-hidden="true"></i></div></a>
+					<a href="http://www.businesscat.happyjar.com/feed/">
+						<div class="social-btn-header rss"><i class="fa fa-rss" aria-hidden="true"></i></div></a>
+					<a href="http://www.patreon.com/tomfonder"><div class="social-btn-header patreon"><svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 8 8" width="15px" height="15px" fill="#FFF" style=""><path d="M2.32081783.3678855c.869042-.40526652 1.88661925-.47774603 2.80665096-.20727372.80652418.2346745 1.53190822.73363407 2.0426921 1.3983242.5050198.6523156.79854318 1.4641745.82647667 2.28752405.0354711.8511923-.21060967 1.71122356-.6952336 2.4134793-.71030882 1.0518368-1.9482503 1.72713368-3.22254963 1.73950823-.63803645.0008839-1.2760729.00044195-1.91366597 0 .00532067-1.34042898.0004434-2.68085797.00310373-4.0217289.00221694-.50647268.23011877-1.00499028.60921618-1.34131288.36180524-.3279256.85973083-.5002854 1.3474585-.46404565.50457642.03093638.98831357.2859405 1.30267622.68015833.3232304.3968695.46422805.93295272.38131434 1.4376576-.08114014.53122177-.41368172 1.01603898-.87790977 1.2882791-.5373872.3252739-1.2406018.3345548-1.7935076.04021728.00044338.43487706-.0008868.86975412.00044338 1.30463118.4934917.14407512 1.02201113.16838228 1.52392723.0539177.7431196-.16219502 1.4144102-.6174017 1.8444973-1.24187455.40969124-.5855814.59946164-1.31788962.52851943-2.02810043-.06030086-.6514317-.34052257-1.27944013-.78302457-1.7620476-.41013462-.4507872-.95860653-.77561914-1.55363427-.913507-.6837055-.162195-1.42372137-.07866678-2.05200326.23600036C1.64553673 1.7542771.962718 2.8206982.95207668 3.932198.95030312 5.2876532.95163328 6.6435504.9511899 7.99944755c-.3165796.0008839-.63360256.00044195-.95062554.00044195-.0004434-1.32584468.0004434-2.65168938-.0004434-3.97709212-.00443387-.56569374.11306415-1.13227137.3440697-1.6493508C.73215587 1.49662128 1.44778534.7691745 2.32081784.3678855z" /></svg> Check out my Patreon</div></a>			
+				
+				</div><!-- social-header-buttons -->
+			</div><!-- social-header -->
+			
+			<div class="navbar-header">
+				<div class="navbar-header-buttons">
+				
+						<span class="link_archive" style="display:none"><a href='http://www.businesscat.happyjar.com/2016/12/comic/'>December 2016</a></span>
+				
+					<a href="http://www.businesscat.happyjar.com/2016/12/?order=id&view=thumb"><div class="navbar-btn-header">Archive</div></a>
+					<a href="http://www.businesscat.happyjar.com/about"><div class="navbar-btn-header">About</div></a>
+					<a href="http://www.businesscat.happyjar.com/store"><div class="navbar-btn-header">Store</div></a>
+					<a href="http://www.businesscat.happyjar.com/support"><div class="navbar-btn-header">Support</div></a>
+					<a href="http://www.businesscat.happyjar.com/extras"><div class="navbar-btn-header">Extras</div></a>
+					<a href="http://www.businesscat.happyjar.com/contact"><div class="navbar-btn-header">Contact</div></a>
+				</div><!-- navbar-header-buttons -->
+			</div><!-- navbar-header -->
+			
+		</div>
+
+	<div class="langsel-header">
+    	<div id="lang_sel"   ><ul><li><a href="#" class="lang_sel_sel icl-en"><img  class="iclflag" src="http://www.businesscat.happyjar.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en"  title="English" />
+								&nbsp;English</a> <ul><li class="icl-ru"><a href="http://www.businesscat.happyjar.com/ru/comic/%d0%b7%d0%b0%d0%ba%d0%b0%d0%b7/" ><img  class="iclflag" src="http://www.businesscat.happyjar.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" alt="ru" title="???????" />&nbsp;???????</a></li></ul></li></ul></div>    </div>
+
+	</div><!-- header-content -->	
+</div><!-- header -->
+
+<div class="comic-area">
+	<div class="comic-area-content">
+					<div id="comic-wrap" class="comic-id-3537">
+				<div id="comic-head">
+									</div>
+								<div class="comic-table">	
+										<div id="comic">
+						<img src="http://www.businesscat.happyjar.com/wp-content/uploads/2016/12/2016-12-02-Order.png" alt="Order" title="Order"   />					</div>
+									</div>				
+						<div id="sidebar-under-comic" class="sidebar">
+				
+
+	<a href="http://www.businesscat.happyjar.com/comic/lost-and-found/" class="navcomic-prev"><!-- prev --></a>
+	<a href="http://www.businesscat.happyjar.com/comic/secrets/" class="navcomic-next"><!-- next --></a>
+
+<div class="belowcomic-area">
+	<div class="belowcomic-share-space">
+		<div class="share-header">Share this comic</div>
+		<div class="social-row">
+					<div class="facebook-twitter-block">
+				<div class="fb-share-button" style="margin-right:2px;" data-href="http://www.businesscat.happyjar.com/comic/order/" data-layout="button" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
+				<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.businesscat.happyjar.com/comic/order/" data-via="bcatcomic" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+			</div><!-- faceboook-twitter-block -->
+			
+			<a class="below-comic-btn googleplus" href="javascript:window.open('https://plus.google.com/share?url=http://www.businesscat.happyjar.com/comic/order/', '_blank', 'width=600,height=400');void(0);" title="Share on Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+			
+			<a class="below-comic-btn tumblr" href="javascript:window.open('http://www.tumblr.com/share/link?v=3&u=businesscat.happyjar.com/comic/order/&t=Business%20Cat%20-%20Order', '_blank', 'width=600,height=400');void(0);" title="Share on Tumblr"><i class="fa fa-tumblr" aria-hidden="true"></i></a>
+			
+			<a class="below-comic-btn reddit" href="javascript:window.open('http://www.reddit.com/submit?url=http://www.businesscat.happyjar.com/comic/order/&title=Business%20Cat%20-%20Order', '_blank', 'width=900,height=900');void(0);" title="Share on Reddit"><i class="fa fa-reddit-alien" aria-hidden="true"></i></a>
+			
+			<a class="below-comic-btn linkedin" href="javascript:window.open('http://www.linkedin.com/shareArticle?mini=true&url=http://www.businesscat.happyjar.com/comic/order/&title=Business%20Cat%20-%20Order&source=http://businesscat.happyjar.dev/', '_blank', 'width=600,height=400');void(0);" title="Share on LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+			
+			<a class="below-comic-btn pinterest" href="javascript:window.open('http://pinterest.com/pin/create/button/?url=http://www.businesscat.happyjar.com/comic/order/&media=http://www.businesscat.happyjar.com/wp-content/uploads/2016/12/2016-12-02-Order.png&description=Business%20Cat%20-%20Order', '_blank', 'width=800,height=600');void(0);" title="Share on Pinterest"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+			
+		</div>
+		<div class="bottom-row">
+			<div class="like-counter"><div class="fb-like" data-href="http://www.businesscat.happyjar.com/comic/order/" data-layout="box_count" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div></div>
+							<div class="buy-print noprint">
+					<table style="width=100%">
+						<tr>
+							<td><i class="fa fa-heart" aria-hidden="true"></i></td>
+							<td>Love this comic?<br /><span class="buy-text">Buy a print</span></td>
+						</tr>
+					</table>
+				</div>
+					</div><!-- bottom-row -->
+	</div>
+	<div class="belowcomic-prmo-space">
+		<div class="prmo-belowcomic-right">
+			<div class="prmo-text" style="margin-left:8px">please disable adblock<br />while browsing this site.</div>
+			<div class="prmo-pos">
+				<a href="http://www.patreon.com/tomfonder">
+				<div class="prmo-random1" id="prmo-belowcomic-patreon" style="display:none;"><!--prmo--></div></a>
+				<a href="http://www.businesscat.happyjar.com/store/book-mpt">
+				<div class="prmo-random2" id="prmo-belowcomic-book" style="display:none;"><!--prmo--></div></a>
+				<a href="http://www.businesscat.happyjar.com/store/calendar-2017">
+				<div class="prmo-random3" id="prmo-belowcomic-calendar" style="display:none;"><!--prmo--></div></a>
+			</div>
+		</div>
+		<div class="prmo-belowcomic-left">
+			<div class="prmo-text">please disable adblock<br />while browsing this site.</div>
+			<div class="prmo-pos">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Business Cat: Comic Area -->
+				<ins class="adsbygoogle"
+				     style="display:inline-block;width:320px;height:100px"
+				     data-ad-client="ca-pub-5269261868368399"
+				     data-ad-slot="2353176661"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+		</div>
+	</div><!-- belowcomic-prmo-space -->
+</div>		<div class="comic_navi_wrapper">
+		<table class="comic_navi">
+						<tr>
+		<td class="comic_navi_left">
+						<a href="http://www.businesscat.happyjar.com/comic/coffee/" class="navi navi-first-in" title=""></a>
+							<a href="http://www.businesscat.happyjar.com/comic/lost-and-found/" class="navi navi-prev-in" title=""></a>
+					</td>
+		<td class="comic_navi_center">
+					<a href="http://www.businesscat.happyjar.com/?random&amp;nocache=1" class="navi navi-random" title=""></a>
+				</td>
+		<td class="comic_navi_right">
+						<a href="http://www.businesscat.happyjar.com/comic/secrets/" class="navi navi-next-in" title=""></a>
+							<a href="http://www.businesscat.happyjar.com/comic/broken/" class="navi navi-last-in" title=""></a>                  
+					</td>
+		</tr>
+				</table>
+		</div>
+				</div>
+					<div id="comic-foot">
+									</div>
+				<div class="clear"></div>
+			</div>
+		<!-- comiceasel plugin -->
+	</div>
+</div><!-- comic-area -->
+<div class="page-content">
+   <div class="page-content-container bground-regular">
+   
+	   <div class="primary-content regular-size">
+	   		
+	   		<!----- COMIC BLOG POST ----->
+			
+			  	<div class="content-blog">
+	<div class="title">
+					Order			</div>
+	<div class="postinfo">
+		Posted December 2, 2016 by Fonder	</div>
+	<div class="content">
+				<p>Put me down for ten crates.<br />
+&#8211;<br />
+<em style="font-size:12px;"><b>This comic brought to you courtesy of my amazing <a href="http://www.patreon.com/tomfonder" target="_blank">patrons</a>. Special thanks to:</b><br />
+Karen Carpenter, Gary Cooper, Daniel Cunningham, Czar De Jesus, Colin Dellow, Julia G, Giz, Reece Hall, Yuliya Levina, Jonna Märijärvi, Coté Nicholas, Scott, Janet Seitz, Ross Taylor</em></p>
+	</div>
+	<div class="footer">
+		<a href=""><div class="comments">
+			<i class="fa fa-comment" aria-hidden="true"></i> COMMENTS (<span class="dsq-postid" data-dsqidentifier="3537 http://www.businesscat.happyjar.com/?post_type=comic&#038;p=3537">2</span>)
+		</div></a>
+	<div class="social">
+		<fb:like href="http://www.businesscat.happyjar.com/comic/order/" show_faces="true" width="450" layout=button_count></fb:like>
+			<a href="https://twitter.com/share"
+				class="twitter-share-button"
+				data-text="Business Cat - Order"
+				data-url="http://businesscat.happyjar.com/comic/order/"
+				data-counturl="http://businesscat.happyjar.dev/comic/order/"></a>
+		</div>
+	</div>
+</div>
+<!----- PRMO SPOT ----->
+<div class="prmo-space-belowblog">
+	<div class="prmo-belowblog">
+		<div class="prmo-text">please disable adblock while browsing this site.</div>
+			<!-- 
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+			<!-- Business Cat: Below Blog -->
+			<!-- <ins class="adsbygoogle"
+			     style="display:inline-block;width:468px;height:60px"
+			     data-ad-client="ca-pub-5269261868368399"
+			     data-ad-slot="5585844669"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script> -->
+	</div>
+</div>
+			
+			<!----- COMMENTS ----->
+			
+			
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-1086">
+        <div id="dsq-comment-header-1086" class="dsq-comment-header">
+            <cite id="dsq-cite-1086">
+                <span id="dsq-author-user-1086">Mark</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1086" class="dsq-comment-body">
+            <div id="dsq-comment-message-1086" class="dsq-comment-message"><p>And since the only exposed fur is on BC&#8217;s head, that&#8217;s the part of him that&#8217;s been rubbed all over Ted.</p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-1087">
+        <div id="dsq-comment-header-1087" class="dsq-comment-header">
+            <cite id="dsq-cite-1087">
+                <span id="dsq-author-user-1087">Guiom</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1087" class="dsq-comment-body">
+            <div id="dsq-comment-message-1087" class="dsq-comment-message"><p>Well, yeah. Worked his way up.</p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+<script type="text/javascript">
+var disqus_url = 'http://www.businesscat.happyjar.com/comic/order/';
+var disqus_identifier = '3537 http://www.businesscat.happyjar.com/?post_type=comic&#038;p=3537';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'businesscatcomic';
+var disqus_title = "Order";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    
+    
+    this.language = 'en';
+        this.callbacks.onReady.push(function () {
+
+        // sync comments in the background so we don't block the page
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '?cf_action=sync_comments&post_id=3537';
+
+        var firstScript = document.getElementsByTagName('script')[0];
+        firstScript.parentNode.insertBefore(script, firstScript);
+    });
+    
+    if (disqus_config_custom) {
+        disqus_config_custom.call(this);
+    }
+};
+
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+
+	   		
+	   </div><!-- primary-content -->
+	   
+	   <div class="main-sidebar">
+	   		<div style="display:inline-block;width:300px;margin-bottom:7px;">			<div class="textwidget"><div class="fb-page" data-href="https://www.facebook.com/businesscatcomic/" data-width="300" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/businesscatcomic/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/businesscatcomic/">The Adventures of Business Cat</a></blockquote></div></div>
+		</div><div style="display:inline-block;width:300px;margin-bottom:7px;">			<div class="textwidget"><div class="prmo-square">
+<div class="prmo-text">please disable adblock<br />while browsing this site</div>
+<div class="prmo-pos">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Business Cat: Medium Rectangle -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5269261868368399"
+     data-ad-slot="2906877069"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+		</div><div style="display:inline-block;width:300px;margin-bottom:7px;">			<div class="textwidget"><a href="http://www.businesscat.happyjar.com/store/book-mpt"><div class="prmo-random1" id="prmo-sidebar-book" style="display:none;"><!--prmo--></div></a>
+<a href="http://www.businesscat.happyjar.com/store/calendar-2017">
+<div class="prmo-random2" id="prmo-sidebar-calendar" style="display:none;"><!--prmo--></div></a>
+<a href="/store"><div class="prmo-random3" id="prmo-sidebar-shop" style="display:none;"><!--prmo--></div></a></div>
+		</div>
+
+	   	</div><!-- /sidebar -->
+	   
+   </div><!-- page-content-container -->
+</div><!-- page-content -->
+
+<div id="footer">
+	<div class="footer-content">
+		
+		<div class="navbar-footer">
+			<div class="navbar-footer-buttons">
+				<a href="http://www.businesscat.happyjar.com"><div class="navbar-btn-footer">Home</div></a>
+				<a href="http://www.businesscat.happyjar.com/2016/12/?order=id&view=thumb"><div class="navbar-btn-footer">Archive</div></a>
+				<a href="http://www.businesscat.happyjar.com/about"><div class="navbar-btn-footer">About</div></a>
+				<a href="http://www.businesscat.happyjar.com/store"><div class="navbar-btn-footer">Store</div></a>
+				<a href="http://www.businesscat.happyjar.com/support"><div class="navbar-btn-footer">Support</div></a>
+				<a href="http://www.businesscat.happyjar.com/extras"><div class="navbar-btn-footer">Extras</div></a>
+				<a href="http://www.businesscat.happyjar.com/contact"><div class="navbar-btn-footer">Contact</div></a>
+			</div>
+		</div><!-- navbar-footer -->
+		<div class="social-footer">
+				<div class="social-footer-buttons">
+					<a href="http://www.facebook.com/businesscatcomic">
+						<div class="social-btn-footer facebook"><i class="fa fa-facebook" aria-hidden="true"></i></div></a>
+					<a href="http://www.twitter.com/bcatcomic">
+						<div class="social-btn-footer twitter"><i class="fa fa-twitter" aria-hidden="true"></i></div></a>
+					<a href="https://plus.google.com/u/0/b/116723208191672073400/116723208191672073400/">
+						<div class="social-btn-footer googleplus"><i class="fa fa-google-plus" aria-hidden="true"></i></div></a>
+					<a href="http://www.businesscatcomic.tumblr.com/">
+						<div class="social-btn-footer tumblr"><i class="fa fa-tumblr" aria-hidden="true"></i></div></a>
+					<a href="http://tomfonder.deviantart.com/">
+						<div class="social-btn-footer deviantart"><i class="fa fa-deviantart" aria-hidden="true"></i></div></a>
+					<a href="http://www.businesscat.happyjar.com/feed/">
+						<div class="social-btn-footer rss"><i class="fa fa-rss" aria-hidden="true"></i></div></a>
+					<a href="http://www.patreon.com/tomfonder"><div class="social-btn-footer patreon"><svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 8 8" width="15px" height="15px" fill="#FFF" style=""><path d="M2.32081783.3678855c.869042-.40526652 1.88661925-.47774603 2.80665096-.20727372.80652418.2346745 1.53190822.73363407 2.0426921 1.3983242.5050198.6523156.79854318 1.4641745.82647667 2.28752405.0354711.8511923-.21060967 1.71122356-.6952336 2.4134793-.71030882 1.0518368-1.9482503 1.72713368-3.22254963 1.73950823-.63803645.0008839-1.2760729.00044195-1.91366597 0 .00532067-1.34042898.0004434-2.68085797.00310373-4.0217289.00221694-.50647268.23011877-1.00499028.60921618-1.34131288.36180524-.3279256.85973083-.5002854 1.3474585-.46404565.50457642.03093638.98831357.2859405 1.30267622.68015833.3232304.3968695.46422805.93295272.38131434 1.4376576-.08114014.53122177-.41368172 1.01603898-.87790977 1.2882791-.5373872.3252739-1.2406018.3345548-1.7935076.04021728.00044338.43487706-.0008868.86975412.00044338 1.30463118.4934917.14407512 1.02201113.16838228 1.52392723.0539177.7431196-.16219502 1.4144102-.6174017 1.8444973-1.24187455.40969124-.5855814.59946164-1.31788962.52851943-2.02810043-.06030086-.6514317-.34052257-1.27944013-.78302457-1.7620476-.41013462-.4507872-.95860653-.77561914-1.55363427-.913507-.6837055-.162195-1.42372137-.07866678-2.05200326.23600036C1.64553673 1.7542771.962718 2.8206982.95207668 3.932198.95030312 5.2876532.95163328 6.6435504.9511899 7.99944755c-.3165796.0008839-.63360256.00044195-.95062554.00044195-.0004434-1.32584468.0004434-2.65168938-.0004434-3.97709212-.00443387-.56569374.11306415-1.13227137.3440697-1.6493508C.73215587 1.49662128 1.44778534.7691745 2.32081784.3678855z" /></svg></div></a>			
+				
+				</div><!-- social-footer-buttons -->
+			</div><!-- social-footer -->
+		<div class="footer-text-row">
+			<div class="footer-text">Copyright &#169; 2014-2016 <a href="mailto:tom@happyjar.com">Tom Fonder</a> | Powered by <a href="http://www.wordpress.org/">WordPress</a> with <a href="http://www.comiceasel.com/">Comic Easel</a></div>
+			<div class="footer-text right"><a href="http://www.businesscat.happyjar.com/privacy">Privacy Policy</a> | <a href="#top">Back to Top &uarr;</a></div>
+		</div><!-- footer-text-row -->
+	</div><!-- footer-content -->
+</div><!-- footer -->
+
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'businesscatcomic';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' src='http://www.businesscat.happyjar.com/wp-includes/js/comment-reply.min.js?ver=e73a5398689a08eb670be96bb7a87aa1'></script>
+<script type='text/javascript' src='http://www.businesscat.happyjar.com/wp-content/plugins/comic-easel/js/keynav.js'></script>
+<script type='text/javascript' src='http://www.businesscat.happyjar.com/wp-includes/js/wp-embed.min.js?ver=e73a5398689a08eb670be96bb7a87aa1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.businesscat.happyjar.com\/","ajax_url":"http:\/\/www.businesscat.happyjar.com\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.businesscat.happyjar.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=e73a5398689a08eb670be96bb7a87aa1'></script>
+
+</body>
+
+</html>
+
+
+
+<!-- Dynamic page generated in 1.806 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-12-22 22:00:59 -->
+
+<!-- super cache -->
